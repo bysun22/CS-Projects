@@ -1,4 +1,4 @@
-# CS-Projects
+# Project 2
 
 Project 2: Priority Queue and Hash Table
 
